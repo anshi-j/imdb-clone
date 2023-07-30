@@ -49,7 +49,7 @@ const Header = () => {
         setOpen(null);
     }
     return (
-        <AppBar>
+        <AppBar position = 'static'>
             <StyledToolBar>
                 <Logo src={logoURL} alt ='logo'/>
                 <Box onClick={handleClick}>
