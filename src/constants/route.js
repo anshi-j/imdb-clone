@@ -1,4 +1,4 @@
-const APP_PATH= '/imdb';
+const APP_PATH= '';
 
 export const routePath = {
     home : `${APP_PATH}/`,

@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import { Star } from "@mui/icons-material";
-import { Box,List, ListItem, Typography } from "@mui/material";
+import {List, ListItem, Typography } from "@mui/material";
 
 
 const Banner = styled('img')({
